@@ -1,7 +1,7 @@
 # Hi I'm,Titus 
 Hi I'm Titus Kiplagat a Fullstack Web developer and machine learning developer. 
 
-### Reach Me out
+### Reach out to me
 
 ### Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Titus210&show_icons=true&theme=radical">
