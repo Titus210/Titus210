@@ -8,49 +8,51 @@ https://github.com/Titus210/Titus210/
 <div align="center">
   <h1>
     <a href="https://github.com/Titus210/Titus210">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Titus%F0%9F%91%8B">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Titus%F0%9F%91%8B">
     </a>
   </h1>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Titus210&label=Profile%20views&color=0e75b6&style=flat" alt="Titus Kiplagat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Titus210&label=Profile%20views&color=red&style=flat" alt="Titus Kiplagat" /> </p>
 
 <p align="center">
   <a href="https://github.com/sponsors/Titus210" style="font-size: 24px;">
-    <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50">
+    <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=violet&style=for-the-badge" width="250" height="50">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/Titus210">
-    <img src="ai3.jpg" alt="Portret" width="600">
+    <img src="https://imgs.search.brave.com/uTXBSEKVcrJqV8bE64tEmIZ8kIPc-5Y3XFPXP5nqfF4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9h/aS1udWNsZWFyLWVu/ZXJneS1mdXR1cmUt/aW5ub3ZhdGlvbi1k/aXNydXB0aXZlLXRl/Y2hub2xvZ3lfNTM4/NzYtMTI5Nzg0Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn" alt="Artificial Intelligence" height="500" width="1000">
   </a>
 </p>
 
 
-<p align="center">
-I am a computer science  <span style="color:blue">enthusiast</span> with a <span style="color:green">passion</span> for <span style="color:red">technology</span>, <span style="color:purple">programming</span>, and <span style="color:orange">artificial intelligence</span>.
-</p>
-<p align="center">
-I am always <span style="color:blue">eager</span> for new <span style="color:green">knowledge</span> and <span style="color:red">strive</span> to explore the latest <span style="color:purple">trends</span> and <span style="color:orange">tools</span> that help me create <span style="color:blue">innovative</span> solutions. 💻
-</p>
-<p align="center">
-My passion for <span style="color:green">artificial intelligence</span> goes beyond my studies - I aim to <span style="color:red">comprehend</span> its various aspects and how it can be applied to <span style="color:purple">solve</span> real-world problems.
-</p>
-<p align="center">
-I believe that the <span style="color:orange">future</span> of <span style="color:red">technology</span> lies in the hands of AI, and I am <span style="color:blue">excited</span> to be a part of that future.
-</p>
-<p align="center">
-On my GitHub, you will find various <span style="color:purple">projects</span> related to <span style="color:red">programming</span> and <span style="color:green">artificial intelligence</span> that showcase my <span style="color:blue">growth</span> and learning in these areas. 
-</p>
-<p align="center">
-With each <span style="color:orange">project</span>, I aim to <span style="color:green">learn</span> something new and enhance my skills.
-</p>
-<p align="center">
-Feel free to explore my projects and reach out to me if you have any <span style="color:red">questions</span> or would like to discuss potential <span style="color:blue">collaboration</span> opportunities.
-</p>
-<p align="center">
-Thank you for visiting my profile. I'm <span style="color:purple">glad</span> you're here! 🎉
-</p>
-
+<div align="center">
+  <h1 style="color: #333;">Computer Science Enthusiast</h1>
+  <h2 style="color: #666;">Passionate about Technology, Programming, and AI</h2>
+</div>
+<div align="center">
+  <p style="color: #333;">
+    I am always eager for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
+  </p>
+  <p style="color: #333;">
+    My passion for artificial intelligence goes beyond my studies - I aim to comprehend its various aspects and how it can be applied to solve real-world problems.
+  </p>
+  <p style="color: #333;">
+    I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.
+  </p>
+  <p style="color: #333;">
+    On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas.
+  </p>
+  <p style="color: #333;">
+    With each project, I aim to learn something new and enhance my skills.
+  </p>
+  <p style="color: #333;">
+    Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
+  </p>
+  <p style="color: #333;">
+    Thank you for visiting my profile. I'm glad you're here! 🎉
+  </p>
+</div>
 
 
 ## **My profile stats here:**
@@ -129,7 +131,7 @@ Thank you for visiting my profile. I'm <span style="color:purple">glad</span> yo
   <a href="https://twitter.com/Titus210">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-    <a href="[https://stackoverflow.com/users/22248754/dawid-olko](https://stackoverflow.com/users/18105834/tittoh)">
+    <a href="https://stackoverflow.com/users/18105834/tittoh">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="https://www.instagram.com/tittoh_code">
@@ -141,15 +143,15 @@ Thank you for visiting my profile. I'm <span style="color:purple">glad</span> yo
     <a href="mailto:titokiplagat50@gmail.com">
         <img src="Email.png" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/in/Titus210/">
+    <a href="https://www.linkedin.com/in/titus-kiplagat-5146ba210/">
         <img src="LikedIn.png" alt="LinkedIn">
     </a>
 </p>
 <div align="center">
   <p align="center">
   <div> 
-    <a href="linkedin.com/in/titus-kiplagat-5146ba210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:titokiplagat50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/titus-kiplagat-5146ba210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:titokiplagat50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"  margin ="12></a> 
     <a href="https://instagram.com/_tittoh_code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   </p>
