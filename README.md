@@ -21,7 +21,7 @@ https://github.com/Titus210/Titus210/
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/Titus210">
-    <img src="https://imgs.search.brave.com/uTXBSEKVcrJqV8bE64tEmIZ8kIPc-5Y3XFPXP5nqfF4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9h/aS1udWNsZWFyLWVu/ZXJneS1mdXR1cmUt/aW5ub3ZhdGlvbi1k/aXNydXB0aXZlLXRl/Y2hub2xvZ3lfNTM4/NzYtMTI5Nzg0Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn" alt="Artificial Intelligence" height="500" width="1000">
+    
   </a>
 </p>
 
