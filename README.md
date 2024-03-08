@@ -76,8 +76,7 @@ I'm a Frontend Developer and Engineer who's all about creating engaging user int
   <p align="center">
     <a href="https://www.linkedin.com/in/titus-kiplagat-5146ba210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:titokiplagat50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"  margin ="12"></a> 
-    <a href="https://instagram.com/_tittoh_code" target="_blank"><img src="https://img.shields.io/badge/Twitter%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  </p>
+      </p>
 </div>
 
 
