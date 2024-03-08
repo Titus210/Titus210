@@ -1,57 +1,33 @@
-<!-- Header -->
+<!-- Header
 <p align="center">
   <img src="assets/Bottom_up.svg">
 </p>
-
+ -->
+ 
 <!-- GitHub Profile -->
 <div align="center">
   <h1>
     <a href="https://github.com/Titus210/Titus210">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Titus%F0%9F%91%8B">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hello,%2C+I'm+Titus%F0%9F%91%8B">
     </a>
   </h1>
 </div>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Titus210&label=Profile%20views&color=red&style=flat" alt="Titus Kiplagat" />
-</p>
 
-<!-- Sponsor Button -->
-<p align="center">
-  <a href="https://github.com/sponsors/Titus210" style="font-size: 24px;">
-    <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=violet&style=for-the-badge" width="250" height="50">
-  </a>
-</p>
+
 
 <!-- Bio -->
 <div align="center">
-  <h1 style="color: #333;">Frontend Developer & AI Enthusiast</h1>
-  <h2 style="color: #666;">Passionate about Technology, Programming, and AI</h2>
+  <h1 style="color: #333;">i'm a Frontend Developer & Engineer</h1>
 </div>
 
 <div align="center">
   <p style="color: #333;">
-    I am always eager for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
+Experienced Frontend Developer and Engineer specializing in crafting dynamic and responsive user interfaces. Proficient in TypeScript, React, and database management, I bring a blend of creativity and technical expertise to every project. With a strong background in web development and a passion for delivering seamless user experiences, I thrive in collaborative environments where innovation and problem-solving are valued.
+
+
   </p>
-  <p style="color: #333;">
-    My passion for artificial intelligence goes beyond my studies - I aim to comprehend its various aspects and how it can be applied to solve real-world problems.
-  </p>
-  <p style="color: #333;">
-    I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.
-  </p>
-  <p style="color: #333;">
-    On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas.
-  </p>
-  <p style="color: #333;">
-    With each project, I aim to learn something new and enhance my skills.
-  </p>
-  <p style="color: #333;">
-    Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
-  </p>
-  <p style="color: #333;">
-    Thank you for visiting my profile. I'm glad you're here! 🎉
-  </p>
+
 </div>
 
 <!-- Profile Stats -->
@@ -63,9 +39,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titus210&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div>
 
 <div align="center">
   <a href="https://github.com/Titus210">
@@ -83,40 +56,27 @@
 <!-- Skills & Technologies -->
 ## Skills & Technologies:
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/Titus210">
-      <img src="https://img.shields.io/badge/Languages:-orange" />
-    </a>
-  </p>
-</div>
 
 <div align="center">
+  <h3 style="color: #333;">Programming Languages</h3>
   <p align="center">
     <a href="https://github.com/Titus210?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,ts,r" />
       <br/>
-      <br/>
-      <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
-      <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
-      <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A">
-    </a>
   </p>
-</div>
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/Titus210">
-      <img src="https://img.shields.io/badge/Development:-orange" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
+  <h3 style="color: #333;">Frameworks, Libraries & Ecosystem</h3>
   <p align="center">
     <a href="https://github.com/Titus210?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
-    </a>
+      <img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,react,redux,svelte,angular,nextjs,graphql,flask,django,express," />
+      <br/>
+  </p>
+
+  <h3 style="color: #333;">Tools</h3>
+  <p align="center">
+    <a href="https://github.com/Titus210?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=postman,npm,jest,vite,cypress" />
+      <br/>
   </p>
 </div>
 
@@ -135,14 +95,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:titokiplagat50@gmail.com">
-    <img src="Email.png" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/titus-kiplagat-5146ba210/">
-    <img src="LikedIn.png" alt="LinkedIn">
-  </a>
-</p>
 
 <div align="center">
   <p align="center">
@@ -152,17 +104,10 @@
   </p>
 </div>
 
+
 <!-- Visitor Counter -->
 <p align="center"> 
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/Titus210-dev/count.svg" />
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="eesa.gif">
-</p>
-
-<p align="center">
-  <img src="assets/Bottom_down.svg">
-</p>
