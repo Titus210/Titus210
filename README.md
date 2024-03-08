@@ -8,7 +8,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/Titus210/Titus210">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hello,%2C+I'm+Titus%F0%9F%91%8B">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+I'm+Titus%F0%9F%91%8B">
     </a>
   </h1>
 </div>
@@ -18,7 +18,7 @@
 
 <!-- Bio -->
 <div align="center">
-  <h1 style="color: #333;">i'm a Frontend Developer & Engineer</h1>
+  <h1 style="color: #333;">I'm a Frontend Developer & Engineer</h1>
 </div>
 
 <div align="center">
