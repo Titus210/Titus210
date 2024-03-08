@@ -1,24 +1,29 @@
-<p align="center">
-  <img src="assets/Bottom_up.svg">
-</p>
+ <!-- Header -->
+  <p align="center">
+    <img src="assets/Bottom_up.svg">
+  </p>
 
-<div align="center">
-  <h1>
-    <a href="https://github.com/Titus210/Titus210">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Titus%F0%9F%91%8B">
+  <div align="center">
+    <h1>
+      <a href="https://github.com/Titus210/Titus210">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Titus%F0%9F%91%8B">
+      </a>
+    </h1>
+  </div>
+
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Titus210&label=Profile%20views&color=red&style=flat" alt="Titus Kiplagat Profile Views" />
+  </p>
+
+  <!-- Sponsorship -->
+  <p align="center">
+    <a href="https://github.com/sponsors/Titus210" style="font-size: 24px;">
+      <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=violet&style=for-the-badge" width="250" height="50">
     </a>
-  </h1>
-</div>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Titus210&label=Profile%20views&color=red&style=flat" alt="Titus Kiplagat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/Titus210" style="font-size: 24px;">
-    <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=violet&style=for-the-badge" width="250" height="50">
-  </a>
-</p>
+  
 
 <div align="center">
   <h1 style="color: #333;">Computer Science Enthusiast</h1>
