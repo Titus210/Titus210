@@ -72,24 +72,11 @@ I'm a Frontend Developer and Engineer who's all about creating engaging user int
 <!-- Connect with me -->
 ## Connect with me:
 
-<p align="center">
-  <a href="https://twitter.com/Titus210">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://stackoverflow.com/users/18105834/tittoh">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-  <a href="https://www.instagram.com/tittoh_code">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
-
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/titus-kiplagat-5146ba210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:titokiplagat50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"  margin ="12"></a> 
-    <a href="https://instagram.com/_tittoh_code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/_tittoh_code" target="_blank"><img src="https://img.shields.io/badge/Twitter%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </p>
 </div>
 
