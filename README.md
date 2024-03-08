@@ -32,7 +32,7 @@ Hey there! 👋 I'm a Frontend Developer and Engineer who's all about creating e
 
 <div align="center">
   <a href="https://github.com/Titus210">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Titus210&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Titus210&theme=slateblue" />
   </a>
 </div>
 
@@ -45,8 +45,8 @@ Hey there! 👋 I'm a Frontend Developer and Engineer who's all about creating e
 
 <div align="center">
   <a href="https://github.com/Titus210">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Titus210&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Titus210&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Titus210&theme=slateblue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Titus210&theme=slateblue" />
   </a>
 </div>
 
