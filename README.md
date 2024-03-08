@@ -15,7 +15,7 @@
 
 <div align="center">
   <p style="color: #333;">
-Hey there! 👋 I'm a Frontend Developer and Engineer who's all about creating engaging user interfaces that make life easier. You'll often find me diving deep into TypeScript, React, and handling databases. I love tackling new challenges and bringing fresh ideas to the table. I'm all about teamwork and thrive in environments where we can bounce ideas off each other and create something truly awesome. Let's build something amazing together!
+I'm a Frontend Developer and Engineer who's all about creating engaging user interfaces that make life easier. You'll often find me diving deep into TypeScript, React, and handling databases. I love tackling new challenges and bringing fresh ideas to the table. I'm all about teamwork and thrive in environments where we can bounce ideas off each other and create something truly awesome. Let's build something amazing together!
   </p>
 </div>
 
