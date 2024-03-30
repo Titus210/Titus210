@@ -31,7 +31,7 @@ I'm a Frontend Developer and Engineer who's all about creating engaging user int
 
 <div align="center">
   <a href="https://github.com/Titus210">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Titus210&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Titus210&theme=rising-sun&hide_border=true" />
   </a>
 </div>
 
