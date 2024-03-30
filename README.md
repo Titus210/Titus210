@@ -25,7 +25,7 @@ A Frontend Developer and Engineer who's all about creating engaging user interfa
 <div align="center">
   <a href="https://github.com/Titus210">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Titus210&theme=slateorange" /> 
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Titus210&theme=slateorange&utcOffset=8" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Titus210&theme=slateorange" />
   </a>
 
 </div>
