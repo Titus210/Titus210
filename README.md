@@ -13,8 +13,8 @@
   </h1>
 </div>
 
-<div align="center">
-  <p style="color: #333;">
+<div align="">
+  <p style="color: #333; font-size:1.2rem;">
 I am Frontend React, Typescript Developer, I also love handling backend integrations using python (flask), my passion is on utilizing AI to create a good softwares and products that satisfies the customer.
 My Background in computer science helps me to approach world problems and solve them creatively, i spend time creating solutions with react, building machine learning models and integrating them on the user interface, 
 and occasionally dabbling in Figma design.
