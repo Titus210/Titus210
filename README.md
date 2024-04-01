@@ -15,9 +15,13 @@
 
 <div align="center">
   <p style="color: #333;">
-A Frontend Developer and Engineer who's all about creating engaging user interfaces that make life easier. You'll often find me diving deep into TypeScript, React, and handling databases. I love tackling new challenges and bringing fresh ideas to the table. I'm all about teamwork and thrive in environments where we can bounce ideas off each other and create something truly awesome. Let's build something amazing together!
+I am Frontend React, Typescript Developer, I also love handling backend integrations using python (flask), my passion is on utilizing AI to create a good softwares and products that satisfies the customer.
+My Background in computer science helps me to approach world problems and solve them creatively, i spend time creating solutions with react, building machine learning models and integrating them on the user interface, 
+and occasionally dabbling in Figma design.
+You'll often find me building user inferfaces with React, integrating stuff with Python or and occasionally dabbling in Figma design.
   </p>
 </div>
+
 
 <!-- Profile Stats -->
 ## My profile stats here:
