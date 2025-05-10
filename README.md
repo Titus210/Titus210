@@ -1,8 +1,7 @@
-<!-- Header
+<!-- Top Banner -->
 <p align="center">
-  <img src="assets/Bottom_up.svg">
+  <img src="https://raw.githubusercontent.com/Titus210/Titus210/main/assets/banner.png" alt="Titus Kiplagat Banner" width="100%" />
 </p>
--->
 
 <!-- GitHub Profile -->
 <div align="center">
@@ -15,9 +14,9 @@
 
 <div align="center">
   <p style="font-size:1.2rem; color:#333;">
-    Software Engineer passionate about LLMs, AI/ML, and building impactful software products.  
-    I specialize in Frontend Engineering with React and TypeScript, while integrating complex backend services using Python (Flask, Django) and Node.js.  
-    My background in Computer Science empowers me to solve real-world challenges creatively, blending sharp problem-solving with clean architecture and great design.
+    🚀 Senior Software Engineer | AI & LLM Enthusiast | Full-Stack Innovator  
+    I specialize in building intelligent, scalable, and user-centered applications using modern frontend frameworks like React and TypeScript, integrated with powerful backends in Python, Flask, Django, or Node.js.  
+    My expertise extends into Machine Learning and Large Language Models (LLMs), where I apply cutting-edge AI solutions to real-world challenges.
   </p>
 </div>
 
@@ -38,9 +37,21 @@
 
   <h3>Tools & Testing</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=postman,jest,cypress,vite,npm" />
+    <img src="https://skillicons.dev/icons?i=postman,jest,cypress,vite,npm,docker" />
   </p>
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [🌿 FarmSight](https://github.com/Titus210/farmsight) | Smart AgTech platform providing farmers with real-time insights using IoT and AI. | React, Flask, TensorFlow, IoT |
+| [💬 LLM Chatbot](https://github.com/Titus210/llm-chatbot) | Conversational AI assistant powered by fine-tuned large language models. | Python, HuggingFace, FastAPI |
+| [📊 DataViz Dashboard](https://github.com/Titus210/dataviz-dashboard) | Interactive dashboard visualizing climate and agricultural data. | React, D3.js, Flask |
+
+_(Want me to fill in live repo links or descriptions? Just provide the GitHub URLs or project details!)_
 
 ---
 
