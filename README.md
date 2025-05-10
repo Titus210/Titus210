@@ -15,7 +15,7 @@
 
 <div align="center">
   <p style="font-size:1.2rem; color:#333;">
-    Senior Software Engineer passionate about LLMs, AI/ML, and building impactful software products.  
+    Software Engineer passionate about LLMs, AI/ML, and building impactful software products.  
     I specialize in Frontend Engineering with React and TypeScript, while integrating complex backend services using Python (Flask, Django) and Node.js.  
     My background in Computer Science empowers me to solve real-world challenges creatively, blending sharp problem-solving with clean architecture and great design.
   </p>
